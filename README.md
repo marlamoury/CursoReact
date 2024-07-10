@@ -1,2 +1,1 @@
-# CursoReact
-CRUD em React.js
+Tecnologias React e Node.Js
